@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <settings>
+        <!--
+            mapUnderscoreToCamelCase : 驼峰命名
+                true: 开启
+                false: 关闭,默认
+        -->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+
+    </settings>
+
+
+</configuration>
